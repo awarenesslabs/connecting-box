@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "A way to connect between one human to another",
+    "githubUrl": "https://github.com/awarenesslabs/connecting-box"
   }
 }

@@ -9,3 +9,6 @@ npm-debug.*
 web-build/
 web-report/
 .idea/*
+assets/sounds/*
+assets/music/*
+.expo-shared/*
